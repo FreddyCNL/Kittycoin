@@ -1,0 +1,42 @@
+{
+    
+  "solana_token": {
+    "chainId": 101,
+    "address": "5g4VAWJyTZjgizQ5jFm8Bq1YE1VYUxfjggY23WeQK8u7",
+    "name": "Kitty-PET coin",
+    "symbol": "KPC",
+    "creator": "Freddy-CornEl",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/FreddyCNL/Kittycoin/main/KPC-Logo.png",
+    "network": "GitHub",
+    "tools": [
+      "NetBeans",
+      "JSON"
+    ],
+    "tags": [
+      "utility-token"
+    ],
+    "description": "This is a utility Solana coin created for payments in pets food industry and toys.",
+    "created_at": "2024-11-10"
+  },
+  
+  "project": {
+    "name": "Solana Coin Registration Project",
+    "language": "JSON",
+    "environment": "GitHub",
+    "dependencies": [
+      "solana",
+      "pynacl",
+      "requests"
+    ],
+    "tools": [
+      "NetBeans",
+      "JSON"
+    ],
+    "creator": "Freddy-CornEl",
+    "description": "A project for registering an Solana token",
+    "version": "1.0",
+    "license": "MIT"
+  }
+}
+
